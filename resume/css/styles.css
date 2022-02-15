@@ -159,6 +159,10 @@ p {
   margin-bottom: 1rem;
 }
 
+p.label{
+  font-size:15px;
+}
+
 abbr[title],
 abbr[data-bs-original-title] {
   -webkit-text-decoration: underline dotted;
