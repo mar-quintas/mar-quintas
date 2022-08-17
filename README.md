@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mar-quintas
-- 🌱 I’m currently learning Python, Jquery and Bootstrap
-- 💞️ I’m looking to collaborate on a development team as Trainee/Junior
+- 💞️ I’m working as a Python developer in Applaudo Studios
 - 📫 You can reach me at martinaquintas.w@gmail.com
 - Check my [resume](http://cv.marquintas.com/)
 
